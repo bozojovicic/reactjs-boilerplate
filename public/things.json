@@ -1,0 +1,14 @@
+{
+    "things" : [
+        {
+            "id" : 1,
+            "name" : "Bozo",
+            "surname" : "Jovicic"
+        },
+        {
+            "id" : 2,
+            "name" : "Marija",
+            "surname" : "Petrovic"
+        }
+    ]
+}

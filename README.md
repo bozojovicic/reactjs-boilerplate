@@ -6,12 +6,6 @@ Boilerplate code for ReactJS + Redux + Less + Controlled form + AJAX + HTTP requ
 
 [Demo](http://www.srpskibre.com/react)
 
-## Install
-
-```code
-$ npm i bozo-reactjs-boilerplate
-```
-
 ## Purpose
 
 Boilerplate code for 

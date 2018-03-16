@@ -13,5 +13,7 @@ Boilerplate code for
 - Less -> CSS 
 - Controlled form 
 - AJAX with Axios + HTTP request interceptor 
-- Router v4 + Authentication
+- Router v4 + 2 ways to redirect to another route
+- User authentication
+
 with the latest versions of all dependencies (March 16, 2018)

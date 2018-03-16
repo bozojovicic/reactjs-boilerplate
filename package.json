@@ -1,5 +1,5 @@
 {
-  "name": "bozo-reactjs-boilerplate",
+  "name": "reactjs-boilerplate",
   "version": "1.0.0",
   "description": "Boilerplate code for ReactJS + Redux + Less + Controlled form + AJAX + HTTP request interceptor + Router v4 + Authentication",
   "homepage" : "http://www.srpskibre.com/react",
